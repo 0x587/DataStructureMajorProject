@@ -4,10 +4,4 @@
     <TargetFramework>net6.0</TargetFramework>
     <EnableDynamicLoading>true</EnableDynamicLoading>
   </PropertyGroup>
-  <ItemGroup>
-    <Content Include="M_Topography.cs" />
-    <Content Include="FractalNoiseGenerator\Public.cs" />
-    <Content Include="FractalNoiseGenerator\Utils.cs" />
-    <Content Include="FractalNoiseGenerator\BiCubic.cs" />
-  </ItemGroup>
 </Project>
